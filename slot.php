@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$img=array("slotimg/cherry.png","slotimg/club.png","slotimg/bat.png","slotimg/spade.png","slotimg/heart.png","slotimg/diomond.png","slotimg/seven.png");
+$img=array("slotimg/cherry.png","slotimg/club.png","slotimg/bat.png","slotimg/spade.png","slotimg/heart.png","slotimg/diamond.png","slotimg/seven.png");
 	
 if (isset($_POST["ROLL"]))
 {
